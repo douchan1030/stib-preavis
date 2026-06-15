@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Préavis STIB</title>
+
+<style>
+body{
+font-family:Arial,sans-serif;
+padding:20px;
+}
+
+select,input,button{
+width:100%;
+padding:12px;
+margin-top:10px;
+font-size:18px;
+}
+
+#resultat{
+margin-top:20px;
+padding:15px;
+border:1px solid #ccc;
+}
+</style>
+</head>
+
+<body>
+
+<h1>Préavis STIB</h1>
+
+<select id="ligne">
+<option value="">Choisir une ligne</option>
+</select>
+
+<select id="direction">
+<option value="">Choisir une direction</option>
+</select>
+
+<input
+id="croisement"
+placeholder="Croisement ou lieu">
+
+<button onclick="calculer()">
+Calculer le préavis
+</button>
+
+<div id="resultat">
+Aucun résultat
+</div>
+
+<script>
+
+let directions={};
+
+fetch("directions.json")
+.then(r=>r.json())
+.then(data=>{
+
+directions=data;
+
+const ligne=document.getElementById("ligne");
+
+Object.keys(data).forEach(l=>{
+
+let option=document.createElement("option");
+option.value=l;
+option.text=l;
+
+ligne.appendChild(option);
+
+});
+
+});
+
+document.getElementById("ligne")
+.addEventListener("change",function(){
+
+const direction=
+document.getElementById("direction");
+
+direction.innerHTML=
+'<option value="">Choisir une direction</option>';
+
+const liste=
+directions[this.value] || [];
+
+liste.forEach(d=>{
+
+let option=
+document.createElement("option");
+
+option.value=d;
+option.text=d;
+
+direction.appendChild(option);
+
+});
+
+});
+
+function calculer(){
+
+const ligne=
+document.getElementById("ligne").value;
+
+const direction=
+document.getElementById("direction").value;
+
+const croisement=
+document.getElementById("croisement").value;
+
+navigator.geolocation.getCurrentPosition(function(pos){
+
+document.getElementById("resultat").innerHTML=
+"<b>Ligne :</b> "+ligne+
+"<br><b>Direction :</b> "+direction+
+"<br><b>Croisement :</b> "+croisement+
+"<br><b>Latitude :</b> "+
+pos.coords.latitude+
+"<br><b>Longitude :</b> "+
+pos.coords.longitude;
+
+});
+
+}
+
+</script>
+
+</body>
+</html>
