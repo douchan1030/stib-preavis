@@ -1,0 +1,367 @@
+{
+  "12": [
+    "BRUSSELS AIRPORT",
+    "BRUSSELS CITY",
+    "MEISER"
+  ],
+  "13": [
+    "ETANGS NOIRS",
+    "UZ-VUB"
+  ],
+  "14": [
+    "GARE DU NORD",
+    "UZ-VUB"
+  ],
+  "17": [
+    "BEAULIEU",
+    "BEAULIEU MARCHE",
+    "HEILIGENB.MARCHE",
+    "HEILIGENBORRE",
+    "LES 3 TILLEULS"
+  ],
+  "20": [
+    "GARE DU NORD",
+    "HUNDERENVELD",
+    "OSSEGHEM"
+  ],
+  "21": [
+    "BORDET STATION",
+    "LUXEMBOURG",
+    "MAES",
+    "TRÔNE"
+  ],
+  "28": [
+    "BRABANCONNE",
+    "KONKEL",
+    "MEUDON",
+    "MONTGOMERY"
+  ],
+  "29": [
+    "DAILLY",
+    "DE BROUCKERE",
+    "HOF TEN BERG",
+    "MADOU"
+  ],
+  "34": [
+    "ARSENAL",
+    "AUDERGHEM-SHOP.",
+    "LA CHASSE",
+    "PORTE DE NAMUR",
+    "ROND-PT SOUVERAIN",
+    "SAINTE-ANNE",
+    "ST-JULIEN/HERRM.",
+    "TRÔNE"
+  ],
+  "36": [
+    "CHANT D'OISEAU",
+    "KONKEL",
+    "LA CHASSE",
+    "MAELBEEK",
+    "MUSÉE DU TRAM",
+    "RUE AU BOIS"
+  ],
+  "37": [
+    "GARE DE LINKEBEEK",
+    "PORTE DE HAL"
+  ],
+  "38": [
+    "BASCULE",
+    "BLYCKAERTS",
+    "GARE CENTRALE",
+    "HEROS"
+  ],
+  "41": [
+    "BOONDAEL GARE/ULB",
+    "DEMEY",
+    "HEROS",
+    "HEROS DEVIE FERMETURE BOIS",
+    "HERRMANN-DEBROUX",
+    "MONTANA",
+    "TRANSVAAL",
+    "TRANSVAAL DEVIE FERMETURE BOIS",
+    "WATERM.G.BOIS FERMÉ",
+    "WATERMAEL GARE"
+  ],
+  "42": [
+    "ROODEBEEK",
+    "VIADUC E40"
+  ],
+  "43": [
+    "BOURDON",
+    "HEROS",
+    "HOMBORCH",
+    "VIVIER D'OIE"
+  ],
+  "45": [
+    "OUD KAPELLEKE",
+    "PERMEKE",
+    "ROODEBEEK",
+    "SAINT-VINCENT",
+    "THIRY/VIADUC E40"
+  ],
+  "46": [
+    "MEIR",
+    "MOORTEBEEK",
+    "PANNENHUIS"
+  ],
+  "47": [
+    "HEEMBEEK",
+    "HÔP. MILITAIRE",
+    "MERCATOR",
+    "VILVORDE STATION"
+  ],
+  "48": [
+    "ANNEESSENS",
+    "AVENUE DU ROI",
+    "DECROLY",
+    "DECROLY MARCHE",
+    "GARE DU MIDI",
+    "GRAND-PLACE",
+    "PORTE DE HAL"
+  ],
+  "49": [
+    "DIGUE DU CANAL",
+    "GARE DU MIDI",
+    "MACHTENS",
+    "MEHDI BOUDA",
+    "SIMONIS",
+    "VAN KALKEN"
+  ],
+  "50": [
+    "GARE CENTRALE",
+    "KERK RUISBROEK",
+    "LOT STATION",
+    "UNION"
+  ],
+  "53": [
+    "BOSSAERT-BASILIQ",
+    "DE WAND",
+    "GARE BOCKSTAEL",
+    "HÔP. MILITAIRE",
+    "WESTLAND SHOP."
+  ],
+  "54": [
+    "FOREST (BERVOETS)",
+    "LUXEMBOURG",
+    "TRÔNE"
+  ],
+  "56": [
+    "BUDA",
+    "HEEMBEEK",
+    "HÔP. MILITAIRE",
+    "MAELBEEK",
+    "VERBOEKHOVEN"
+  ],
+  "58": [
+    "ALBERT II",
+    "DIEGEMSTRAAT",
+    "DOCKS BRUXSEL",
+    "PRINC. ELISABETH",
+    "VILVORDE STATION"
+  ],
+  "59": [
+    "BORDET STATION",
+    "HÔP.ETT.-IXELLES",
+    "VERBOEKHOVEN"
+  ],
+  "60": [
+    "AMBIORIX",
+    "AMBIORIX VIA PARC LEOP",
+    "PLACE ST-JOB",
+    "UCCLE CALEVOET"
+  ],
+  "61": [
+    "GARE DU NORD",
+    "GEORGES HENRI",
+    "MONTGOMERY",
+    "PLEIADES"
+  ],
+  "63": [
+    "CIM. DE BRUXELLES",
+    "GARE CENTRALE",
+    "MEISER"
+  ],
+  "64": [
+    "BORDET STATION",
+    "PORTE DE NAMUR"
+  ],
+  "65": [
+    "BORDET STATION",
+    "GARE CENTRALE",
+    "MACHELEN"
+  ],
+  "66": [
+    "GARE CENTRALE",
+    "GARE D'EVERE",
+    "PEAGE"
+  ],
+  "69": [
+    "BORDET STATION",
+    "JULES BORDET",
+    "VERBOEKHOVEN"
+  ],
+  "71": [
+    "BUYL",
+    "DE BROUCKERE",
+    "DELTA"
+  ],
+  "72": [
+    "ADEPS",
+    "DELTA",
+    "ULB"
+  ],
+  "73": [
+    "CERIA",
+    "GARE DU MIDI",
+    "HERMES"
+  ],
+  "74": [
+    "CLEMENCE EVERARD",
+    "DIGUE DU CANAL",
+    "VICTOR ALLARD --> VAN HAELEN"
+  ],
+  "75": [
+    "BON AIR",
+    "HEROS",
+    "WESTLAND SHOP."
+  ],
+  "76": [
+    "KRAAINEM",
+    "OPPEM"
+  ],
+  "77": [
+    "HIPPODROME",
+    "KRAAINEM"
+  ],
+  "78": [
+    "GARE DU MIDI",
+    "HERMES",
+    "HUMANITE"
+  ],
+  "79": [
+    "GULLEDELLE",
+    "KRAAINEM",
+    "MAELBEEK"
+  ],
+  "80": [
+    "BORDET STATION",
+    "GEORGES HENRI",
+    "HAREN",
+    "HAREN VIA PARC LEOPOLD",
+    "MONTGOMERY",
+    "PORTE DE NAMUR",
+    "PTE DE NAMUR VIA PARC LEOP"
+  ],
+  "83": [
+    "GARE DE BERCHEM",
+    "GARE DE BERCHEM (DEVIE)",
+    "SQUARE DU CENTENAIRE",
+    "VAL MARIA",
+    "VAL MARIA (DEVIE)"
+  ],
+  "86": [
+    "BOCKSTAEL",
+    "GARE DE L'OUEST",
+    "MACHTENS",
+    "QUATRE VENTS"
+  ],
+  "87": [
+    "ELBERS",
+    "GARE DE BERCHEM",
+    "GARE DE L'OUEST",
+    "HUNDERENVELD",
+    "SIMONIS"
+  ],
+  "88": [
+    "DE BROUCKERE",
+    "UZ-VUB"
+  ],
+  "89": [
+    "BOURSE",
+    "DELACROIX",
+    "DUCHESSE BRABANT",
+    "GARE CENTRALE",
+    "JACQUES BREL",
+    "WESTLAND SHOP.",
+    "WESTLAND SHOP. --> 75"
+  ],
+  "95": [
+    "CIM IXELLES --> DELTA",
+    "CIM. IXELLES",
+    "ETTERBEEK GARE",
+    "GRAND SABLON",
+    "GRAND-PLACE",
+    "GRAND-PLACE DÉVIÉ MARCHÉ",
+    "GRAND-PLACE/ANN",
+    "LES 3 TILLEULS",
+    "TRÔNE",
+    "WIENER"
+  ],
+  "96": [
+    "GARE DU MIDI",
+    "LEGRAND"
+  ],
+  "M1": [
+    "GARE DE L'OUEST",
+    "STOCKEL"
+  ],
+  "M5": [
+    "ERASME",
+    "HERRMANN-DEBROUX"
+  ],
+  "N04": [
+    "CIM. DE BRUXELLES",
+    "GARE CENTRALE"
+  ],
+  "N05": [
+    "GARE CENTRALE",
+    "KRAAINEM"
+  ],
+  "N06": [
+    "GARE CENTRALE",
+    "MUSÉE DU TRAM"
+  ],
+  "N08": [
+    "GARE CENTRALE",
+    "WIENER"
+  ],
+  "N09": [
+    "GARE CENTRALE",
+    "HERRMANN-DEBROUX"
+  ],
+  "N10": [
+    "FORT-JACO",
+    "GARE CENTRALE"
+  ],
+  "N11": [
+    "GARE CENTRALE",
+    "HOMBORCH"
+  ],
+  "N12": [
+    "GARE CENTRALE",
+    "STALLE (P)"
+  ],
+  "N13": [
+    "GARE CENTRALE",
+    "WESTLAND SHOP."
+  ],
+  "N16": [
+    "GARE CENTRALE",
+    "GARE DE BERCHEM"
+  ],
+  "N18": [
+    "GARE CENTRALE",
+    "HEYSEL"
+  ],
+  "NAV": [
+    "FOREST NATIONAL"
+  ],
+  "T81": [
+    "GARE DU MIDI",
+    "NEERPEDE"
+  ],
+  "T92": [
+    "PARC",
+    "SCHAERBEEK GARE"
+  ]
+}
